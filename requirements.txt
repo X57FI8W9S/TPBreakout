@@ -1,0 +1,10 @@
+numpy
+gymnasium[atari,other]
+ale-py==0.11.2
+stable-baselines3[extra]
+AutoROM.accept-rom-license==0.6.1
+matplotlib>=3.8
+pandas>=2.2
+opencv-python-headless
+tensorboard
+torch
