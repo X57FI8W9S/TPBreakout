@@ -1,7 +1,7 @@
 venv/
 
 .venv/
-dqn_breakout.zip
+#dqn_breakout.zip
 
 .venv/
 
